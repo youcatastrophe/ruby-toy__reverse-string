@@ -1,1 +1,4 @@
-TODO pry, rspec, anything else?
+source 'https://rubygems.org'
+
+gem "pry"
+gem "minitest-rg"
